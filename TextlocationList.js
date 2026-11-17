@@ -27715,7 +27715,7 @@ var TextlocationList = [{
     }
   ]
 },{
-  "index": "18",
+  "index": "0",
   "pdfWidth": "810",
   "pdfHeight": "1440",
   "content": [
@@ -27861,7 +27861,7 @@ var TextlocationList = [{
       "height": "45.3094139",
       "left": "95.58295",
       "top": "1145.24756",
-      "keyword": "接"
+      "keyword": "收"
     },
     {
       "index": "18",
@@ -27869,7 +27869,7 @@ var TextlocationList = [{
       "height": "45.3094139",
       "left": "157.393051",
       "top": "1145.24756",
-      "keyword": "收"
+      "keyword": "訊"
     },
     {
       "index": "19",
@@ -27885,7 +27885,7 @@ var TextlocationList = [{
       "height": "45.3094139",
       "left": "281.013245",
       "top": "1145.24756",
-      "keyword": "必"
+      "keyword": "複"
     },
     {
       "index": "21",
@@ -27893,7 +27893,7 @@ var TextlocationList = [{
       "height": "45.3094139",
       "left": "342.823364",
       "top": "1145.24756",
-      "keyword": "須"
+      "keyword": "誦"
     },
     {
       "index": "22",
@@ -27901,7 +27901,7 @@ var TextlocationList = [{
       "height": "45.3094139",
       "left": "404.633484",
       "top": "1145.24756",
-      "keyword": "把"
+      "keyword": "關"
     },
     {
       "index": "23",
@@ -27909,7 +27909,7 @@ var TextlocationList = [{
       "height": "45.3094139",
       "left": "466.4436",
       "top": "1145.24756",
-      "keyword": "重"
+      "keyword": "鍵"
     },
     {
       "index": "24",
@@ -27917,7 +27917,7 @@ var TextlocationList = [{
       "height": "45.3094139",
       "left": "528.2537",
       "top": "1145.24756",
-      "keyword": "要"
+      "keyword": "訊"
     },
     {
       "index": "25",
@@ -27925,7 +27925,7 @@ var TextlocationList = [{
       "height": "45.3094139",
       "left": "590.063843",
       "top": "1145.24756",
-      "keyword": "資"
+      "keyword": "息"
     },
     {
       "index": "26",
@@ -27933,58 +27933,82 @@ var TextlocationList = [{
       "height": "45.3094139",
       "left": "651.8739",
       "top": "1145.24756",
-      "keyword": "訊"
+      "keyword": "，"
     },
     {
       "index": "27",
-      "width": "61.81366",
+      "width": "14.0317078",
       "height": "45.3094139",
-      "left": "250.108",
+      "left": "205.161453",
       "top": "1237.00684",
-      "keyword": "「"
+      "keyword": ""
     },
     {
       "index": "28",
-      "width": "61.81366",
+      "width": "14.0317078",
       "height": "45.3094139",
-      "left": "311.9181",
+      "left": "219.192368",
       "top": "1237.00684",
-      "keyword": "講"
+      "keyword": ""
     },
     {
       "index": "29",
       "width": "61.81366",
       "height": "45.3094139",
-      "left": "373.7282",
+      "left": "233.2445",
       "top": "1237.00684",
-      "keyword": "出"
+      "keyword": "讓"
     },
     {
       "index": "30",
       "width": "61.81366",
       "height": "45.3094139",
-      "left": "435.53833",
+      "left": "295.054626",
       "top": "1237.00684",
-      "keyword": "來"
+      "keyword": "發"
     },
     {
       "index": "31",
       "width": "61.81366",
       "height": "45.3094139",
-      "left": "497.34845",
+      "left": "356.864746",
       "top": "1237.00684",
-      "keyword": "」"
+      "keyword": "訊"
     },
     {
       "index": "32",
-      "width": "43.5486755",
-      "height": "48.5862732",
-      "left": "200.774948",
-      "top": "254.633057",
-      "keyword": "C"
+      "width": "61.81366",
+      "height": "45.3094139",
+      "left": "418.6748",
+      "top": "1237.00684",
+      "keyword": "者"
     },
     {
       "index": "33",
+      "width": "61.81366",
+      "height": "45.3094139",
+      "left": "480.484924",
+      "top": "1237.00684",
+      "keyword": "核"
+    },
+    {
+      "index": "34",
+      "width": "61.81366",
+      "height": "45.3094139",
+      "left": "542.295044",
+      "top": "1237.00684",
+      "keyword": "對"
+    },
+    {
+      "index": "35",
+      "width": "43.5486755",
+      "height": "48.5862732",
+      "left": "200.774948",
+      "top": "254.633057",
+      "keyword": "C"
+    },
+    {
+      "index": "36",
       "width": "20.8795013",
       "height": "48.5862732",
       "left": "244.323563",
@@ -27992,7 +28016,7 @@ var TextlocationList = [{
       "keyword": "l"
     },
     {
-      "index": "34",
+      "index": "37",
       "width": "41.493866",
       "height": "48.5862732",
       "left": "265.203064",
@@ -28000,7 +28024,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "35",
+      "index": "38",
       "width": "32.81064",
       "height": "48.5862732",
       "left": "306.6969",
@@ -28008,7 +28032,7 @@ var TextlocationList = [{
       "keyword": "s"
     },
     {
-      "index": "36",
+      "index": "39",
       "width": "38.5110779",
       "height": "48.5862732",
       "left": "339.5075",
@@ -28016,7 +28040,7 @@ var TextlocationList = [{
       "keyword": "e"
     },
     {
-      "index": "37",
+      "index": "40",
       "width": "42.68698",
       "height": "48.5862732",
       "left": "378.018555",
@@ -28024,7 +28048,7 @@ var TextlocationList = [{
       "keyword": "d"
     },
     {
-      "index": "38",
+      "index": "41",
       "width": "24.5251465",
       "height": "48.5862732",
       "left": "420.705444",
@@ -28032,7 +28056,7 @@ var TextlocationList = [{
       "keyword": "-"
     },
     {
-      "index": "39",
+      "index": "42",
       "width": "38.3122253",
       "height": "48.5862732",
       "left": "445.2306",
@@ -28040,7 +28064,7 @@ var TextlocationList = [{
       "keyword": "L"
     },
     {
-      "index": "40",
+      "index": "43",
       "width": "41.4938965",
       "height": "48.5862732",
       "left": "483.5428",
@@ -28048,7 +28072,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "41",
+      "index": "44",
       "width": "41.4938965",
       "height": "48.5862732",
       "left": "525.0366",
@@ -28056,7 +28080,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "42",
+      "index": "45",
       "width": "42.68701",
       "height": "48.5862732",
       "left": "566.530457",
@@ -28064,7 +28088,7 @@ var TextlocationList = [{
       "keyword": "p"
     },
     {
-      "index": "43",
+      "index": "46",
       "width": "43.5486755",
       "height": "0",
       "left": "200.774948",
@@ -28072,7 +28096,7 @@ var TextlocationList = [{
       "keyword": "C"
     },
     {
-      "index": "44",
+      "index": "47",
       "width": "20.8795013",
       "height": "0",
       "left": "244.323563",
@@ -28080,7 +28104,7 @@ var TextlocationList = [{
       "keyword": "l"
     },
     {
-      "index": "45",
+      "index": "48",
       "width": "41.493866",
       "height": "0",
       "left": "265.203064",
@@ -28088,7 +28112,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "46",
+      "index": "49",
       "width": "32.81064",
       "height": "0",
       "left": "306.6969",
@@ -28096,7 +28120,7 @@ var TextlocationList = [{
       "keyword": "s"
     },
     {
-      "index": "47",
+      "index": "50",
       "width": "38.5110779",
       "height": "0",
       "left": "339.5075",
@@ -28104,7 +28128,7 @@ var TextlocationList = [{
       "keyword": "e"
     },
     {
-      "index": "48",
+      "index": "51",
       "width": "42.68698",
       "height": "0",
       "left": "378.018555",
@@ -28112,7 +28136,7 @@ var TextlocationList = [{
       "keyword": "d"
     },
     {
-      "index": "49",
+      "index": "52",
       "width": "24.5251465",
       "height": "0",
       "left": "420.705444",
@@ -28120,7 +28144,7 @@ var TextlocationList = [{
       "keyword": "-"
     },
     {
-      "index": "50",
+      "index": "53",
       "width": "38.3122253",
       "height": "0",
       "left": "445.2306",
@@ -28128,7 +28152,7 @@ var TextlocationList = [{
       "keyword": "L"
     },
     {
-      "index": "51",
+      "index": "54",
       "width": "41.4938965",
       "height": "0",
       "left": "483.5428",
@@ -28136,7 +28160,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "52",
+      "index": "55",
       "width": "41.4938965",
       "height": "0",
       "left": "525.0366",
@@ -28144,7 +28168,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "53",
+      "index": "56",
       "width": "42.68701",
       "height": "0",
       "left": "566.530457",
@@ -28152,7 +28176,7 @@ var TextlocationList = [{
       "keyword": "p"
     },
     {
-      "index": "54",
+      "index": "57",
       "width": "15.0464935",
       "height": "48.5862732",
       "left": "135.5783",
@@ -28160,7 +28184,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "55",
+      "index": "58",
       "width": "15.0464935",
       "height": "48.5862732",
       "left": "135.5783",
@@ -28168,7 +28192,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "56",
+      "index": "59",
       "width": "43.5486755",
       "height": "48.5862732",
       "left": "150.634628",
@@ -28176,7 +28200,7 @@ var TextlocationList = [{
       "keyword": "C"
     },
     {
-      "index": "57",
+      "index": "60",
       "width": "41.493866",
       "height": "48.5862732",
       "left": "194.183258",
@@ -28184,7 +28208,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "58",
+      "index": "61",
       "width": "63.8979034",
       "height": "48.5862732",
       "left": "235.677078",
@@ -28192,7 +28216,7 @@ var TextlocationList = [{
       "keyword": "m"
     },
     {
-      "index": "59",
+      "index": "62",
       "width": "63.89792",
       "height": "48.5862732",
       "left": "299.574951",
@@ -28200,7 +28224,7 @@ var TextlocationList = [{
       "keyword": "m"
     },
     {
-      "index": "60",
+      "index": "63",
       "width": "42.2229919",
       "height": "48.5862732",
       "left": "363.472778",
@@ -28208,7 +28232,7 @@ var TextlocationList = [{
       "keyword": "u"
     },
     {
-      "index": "61",
+      "index": "64",
       "width": "42.48813",
       "height": "48.5862732",
       "left": "405.69574",
@@ -28216,7 +28240,7 @@ var TextlocationList = [{
       "keyword": "n"
     },
     {
-      "index": "62",
+      "index": "65",
       "width": "20.15039",
       "height": "48.5862732",
       "left": "448.183838",
@@ -28224,7 +28248,7 @@ var TextlocationList = [{
       "keyword": "i"
     },
     {
-      "index": "63",
+      "index": "66",
       "width": "34.9317322",
       "height": "48.5862732",
       "left": "468.334167",
@@ -28232,7 +28256,7 @@ var TextlocationList = [{
       "keyword": "c"
     },
     {
-      "index": "64",
+      "index": "67",
       "width": "39.17395",
       "height": "48.5862732",
       "left": "503.26593",
@@ -28240,7 +28264,7 @@ var TextlocationList = [{
       "keyword": "a"
     },
     {
-      "index": "65",
+      "index": "68",
       "width": "27.8393555",
       "height": "48.5862732",
       "left": "542.4398",
@@ -28248,7 +28272,7 @@ var TextlocationList = [{
       "keyword": "t"
     },
     {
-      "index": "66",
+      "index": "69",
       "width": "20.15039",
       "height": "48.5862732",
       "left": "570.2791",
@@ -28256,39 +28280,39 @@ var TextlocationList = [{
       "keyword": "i"
     },
     {
-      "index": "67",
+      "index": "70",
       "width": "41.4938965",
       "height": "48.5862732",
       "left": "590.429443",
-      "top": "344.9452",
-      "keyword": "o"
-    },
-    {
-      "index": "68",
-      "width": "42.48816",
-      "height": "48.5862732",
-      "left": "631.9233",
-      "top": "344.9452",
-      "keyword": "n"
-    },
-    {
-      "index": "69",
-      "width": "43.5486755",
-      "height": "0",
-      "left": "150.634628",
-      "top": "344.9452",
-      "keyword": "C"
-    },
-    {
-      "index": "70",
-      "width": "41.493866",
-      "height": "0",
-      "left": "194.183258",
       "top": "344.9452",
       "keyword": "o"
     },
     {
       "index": "71",
+      "width": "42.48816",
+      "height": "48.5862732",
+      "left": "631.9233",
+      "top": "344.9452",
+      "keyword": "n"
+    },
+    {
+      "index": "72",
+      "width": "43.5486755",
+      "height": "0",
+      "left": "150.634628",
+      "top": "344.9452",
+      "keyword": "C"
+    },
+    {
+      "index": "73",
+      "width": "41.493866",
+      "height": "0",
+      "left": "194.183258",
+      "top": "344.9452",
+      "keyword": "o"
+    },
+    {
+      "index": "74",
       "width": "63.8979034",
       "height": "0",
       "left": "235.677078",
@@ -28296,7 +28320,7 @@ var TextlocationList = [{
       "keyword": "m"
     },
     {
-      "index": "72",
+      "index": "75",
       "width": "63.89792",
       "height": "0",
       "left": "299.574951",
@@ -28304,7 +28328,7 @@ var TextlocationList = [{
       "keyword": "m"
     },
     {
-      "index": "73",
+      "index": "76",
       "width": "42.2229919",
       "height": "0",
       "left": "363.472778",
@@ -28312,7 +28336,7 @@ var TextlocationList = [{
       "keyword": "u"
     },
     {
-      "index": "74",
+      "index": "77",
       "width": "42.48813",
       "height": "0",
       "left": "405.69574",
@@ -28320,7 +28344,7 @@ var TextlocationList = [{
       "keyword": "n"
     },
     {
-      "index": "75",
+      "index": "78",
       "width": "20.15039",
       "height": "0",
       "left": "448.183838",
@@ -28328,7 +28352,7 @@ var TextlocationList = [{
       "keyword": "i"
     },
     {
-      "index": "76",
+      "index": "79",
       "width": "34.9317322",
       "height": "0",
       "left": "468.334167",
@@ -28336,7 +28360,7 @@ var TextlocationList = [{
       "keyword": "c"
     },
     {
-      "index": "77",
+      "index": "80",
       "width": "39.17395",
       "height": "0",
       "left": "503.26593",
@@ -28344,7 +28368,7 @@ var TextlocationList = [{
       "keyword": "a"
     },
     {
-      "index": "78",
+      "index": "81",
       "width": "27.8393555",
       "height": "0",
       "left": "542.4398",
@@ -28352,7 +28376,7 @@ var TextlocationList = [{
       "keyword": "t"
     },
     {
-      "index": "79",
+      "index": "82",
       "width": "20.15039",
       "height": "0",
       "left": "570.2791",
@@ -28360,7 +28384,7 @@ var TextlocationList = [{
       "keyword": "i"
     },
     {
-      "index": "80",
+      "index": "83",
       "width": "41.4938965",
       "height": "0",
       "left": "590.429443",
@@ -28368,7 +28392,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "81",
+      "index": "84",
       "width": "42.48816",
       "height": "0",
       "left": "631.9233",
@@ -28376,7 +28400,7 @@ var TextlocationList = [{
       "keyword": "n"
     },
     {
-      "index": "82",
+      "index": "85",
       "width": "43.5486755",
       "height": "48.5862732",
       "left": "200.774948",
@@ -28384,7 +28408,7 @@ var TextlocationList = [{
       "keyword": "C"
     },
     {
-      "index": "83",
+      "index": "86",
       "width": "20.8795013",
       "height": "48.5862732",
       "left": "244.323563",
@@ -28392,7 +28416,7 @@ var TextlocationList = [{
       "keyword": "l"
     },
     {
-      "index": "84",
+      "index": "87",
       "width": "41.493866",
       "height": "48.5862732",
       "left": "265.203064",
@@ -28400,7 +28424,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "85",
+      "index": "88",
       "width": "32.81064",
       "height": "48.5862732",
       "left": "306.6969",
@@ -28408,7 +28432,7 @@ var TextlocationList = [{
       "keyword": "s"
     },
     {
-      "index": "86",
+      "index": "89",
       "width": "38.5110779",
       "height": "48.5862732",
       "left": "339.5075",
@@ -28416,7 +28440,7 @@ var TextlocationList = [{
       "keyword": "e"
     },
     {
-      "index": "87",
+      "index": "90",
       "width": "42.68698",
       "height": "48.5862732",
       "left": "378.018555",
@@ -28424,7 +28448,7 @@ var TextlocationList = [{
       "keyword": "d"
     },
     {
-      "index": "88",
+      "index": "91",
       "width": "24.5251465",
       "height": "48.5862732",
       "left": "420.705444",
@@ -28432,7 +28456,7 @@ var TextlocationList = [{
       "keyword": "-"
     },
     {
-      "index": "89",
+      "index": "92",
       "width": "38.3122253",
       "height": "48.5862732",
       "left": "445.2306",
@@ -28440,7 +28464,7 @@ var TextlocationList = [{
       "keyword": "L"
     },
     {
-      "index": "90",
+      "index": "93",
       "width": "41.4938965",
       "height": "48.5862732",
       "left": "483.5428",
@@ -28448,7 +28472,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "91",
+      "index": "94",
       "width": "41.4938965",
       "height": "48.5862732",
       "left": "525.0366",
@@ -28456,7 +28480,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "92",
+      "index": "95",
       "width": "42.68701",
       "height": "48.5862732",
       "left": "566.530457",
@@ -28464,7 +28488,7 @@ var TextlocationList = [{
       "keyword": "p"
     },
     {
-      "index": "93",
+      "index": "96",
       "width": "15.0464935",
       "height": "48.5862732",
       "left": "135.5783",
@@ -28472,7 +28496,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "94",
+      "index": "97",
       "width": "43.5486755",
       "height": "48.5862732",
       "left": "150.634628",
@@ -28480,7 +28504,7 @@ var TextlocationList = [{
       "keyword": "C"
     },
     {
-      "index": "95",
+      "index": "98",
       "width": "41.493866",
       "height": "48.5862732",
       "left": "194.183258",
@@ -28488,7 +28512,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "96",
+      "index": "99",
       "width": "63.8979034",
       "height": "48.5862732",
       "left": "235.677078",
@@ -28496,7 +28520,7 @@ var TextlocationList = [{
       "keyword": "m"
     },
     {
-      "index": "97",
+      "index": "100",
       "width": "63.89792",
       "height": "48.5862732",
       "left": "299.574951",
@@ -28504,7 +28528,7 @@ var TextlocationList = [{
       "keyword": "m"
     },
     {
-      "index": "98",
+      "index": "101",
       "width": "42.2229919",
       "height": "48.5862732",
       "left": "363.472778",
@@ -28512,7 +28536,7 @@ var TextlocationList = [{
       "keyword": "u"
     },
     {
-      "index": "99",
+      "index": "102",
       "width": "42.48813",
       "height": "48.5862732",
       "left": "405.69574",
@@ -28520,7 +28544,7 @@ var TextlocationList = [{
       "keyword": "n"
     },
     {
-      "index": "100",
+      "index": "103",
       "width": "20.15039",
       "height": "48.5862732",
       "left": "448.183838",
@@ -28528,7 +28552,7 @@ var TextlocationList = [{
       "keyword": "i"
     },
     {
-      "index": "101",
+      "index": "104",
       "width": "34.9317322",
       "height": "48.5862732",
       "left": "468.334167",
@@ -28536,7 +28560,7 @@ var TextlocationList = [{
       "keyword": "c"
     },
     {
-      "index": "102",
+      "index": "105",
       "width": "39.17395",
       "height": "48.5862732",
       "left": "503.26593",
@@ -28544,7 +28568,7 @@ var TextlocationList = [{
       "keyword": "a"
     },
     {
-      "index": "103",
+      "index": "106",
       "width": "27.8393555",
       "height": "48.5862732",
       "left": "542.4398",
@@ -28552,7 +28576,7 @@ var TextlocationList = [{
       "keyword": "t"
     },
     {
-      "index": "104",
+      "index": "107",
       "width": "20.15039",
       "height": "48.5862732",
       "left": "570.2791",
@@ -28560,7 +28584,7 @@ var TextlocationList = [{
       "keyword": "i"
     },
     {
-      "index": "105",
+      "index": "108",
       "width": "41.4938965",
       "height": "48.5862732",
       "left": "590.429443",
@@ -28568,7 +28592,7 @@ var TextlocationList = [{
       "keyword": "o"
     },
     {
-      "index": "106",
+      "index": "109",
       "width": "42.48816",
       "height": "48.5862732",
       "left": "631.9233",
@@ -28576,119 +28600,15 @@ var TextlocationList = [{
       "keyword": "n"
     },
     {
-      "index": "107",
-      "width": "16.5612335",
-      "height": "53.4774551",
-      "left": "177.211929",
-      "top": "441.989136",
-      "keyword": ""
-    },
-    {
-      "index": "108",
-      "width": "16.5612335",
-      "height": "53.4774551",
-      "left": "177.211929",
-      "top": "441.989136",
-      "keyword": ""
-    },
-    {
-      "index": "109",
-      "width": "27.5777283",
-      "height": "53.4774551",
-      "left": "208.950439",
-      "top": "441.989136",
-      "keyword": "("
-    },
-    {
       "index": "110",
-      "width": "72.956955",
+      "width": "16.5612335",
       "height": "53.4774551",
-      "left": "251.70433",
+      "left": "177.211929",
       "top": "441.989136",
-      "keyword": "閉"
+      "keyword": ""
     },
     {
       "index": "111",
-      "width": "72.95697",
-      "height": "53.4774551",
-      "left": "339.837036",
-      "top": "441.989136",
-      "keyword": "環"
-    },
-    {
-      "index": "112",
-      "width": "72.95697",
-      "height": "53.4774551",
-      "left": "427.9698",
-      "top": "441.989136",
-      "keyword": "溝"
-    },
-    {
-      "index": "113",
-      "width": "72.95697",
-      "height": "53.4774551",
-      "left": "516.1025",
-      "top": "441.989136",
-      "keyword": "通"
-    },
-    {
-      "index": "114",
-      "width": "27.5777588",
-      "height": "53.4774551",
-      "left": "604.235168",
-      "top": "441.989136",
-      "keyword": ")"
-    },
-    {
-      "index": "115",
-      "width": "27.5777283",
-      "height": "0",
-      "left": "208.950439",
-      "top": "441.989136",
-      "keyword": "("
-    },
-    {
-      "index": "116",
-      "width": "72.956955",
-      "height": "0",
-      "left": "251.70433",
-      "top": "441.989136",
-      "keyword": "閉"
-    },
-    {
-      "index": "117",
-      "width": "72.95697",
-      "height": "0",
-      "left": "339.837036",
-      "top": "441.989136",
-      "keyword": "環"
-    },
-    {
-      "index": "118",
-      "width": "72.95697",
-      "height": "0",
-      "left": "427.9698",
-      "top": "441.989136",
-      "keyword": "溝"
-    },
-    {
-      "index": "119",
-      "width": "72.95697",
-      "height": "0",
-      "left": "516.1025",
-      "top": "441.989136",
-      "keyword": "通"
-    },
-    {
-      "index": "120",
-      "width": "27.5777588",
-      "height": "0",
-      "left": "604.235168",
-      "top": "441.989136",
-      "keyword": ")"
-    },
-    {
-      "index": "121",
       "width": "16.5612335",
       "height": "53.4774551",
       "left": "177.211929",
@@ -28696,7 +28616,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "122",
+      "index": "112",
       "width": "27.5777283",
       "height": "53.4774551",
       "left": "208.950439",
@@ -28704,7 +28624,7 @@ var TextlocationList = [{
       "keyword": "("
     },
     {
-      "index": "123",
+      "index": "113",
       "width": "72.956955",
       "height": "53.4774551",
       "left": "251.70433",
@@ -28712,7 +28632,7 @@ var TextlocationList = [{
       "keyword": "閉"
     },
     {
-      "index": "124",
+      "index": "114",
       "width": "72.95697",
       "height": "53.4774551",
       "left": "339.837036",
@@ -28720,7 +28640,7 @@ var TextlocationList = [{
       "keyword": "環"
     },
     {
-      "index": "125",
+      "index": "115",
       "width": "72.95697",
       "height": "53.4774551",
       "left": "427.9698",
@@ -28728,7 +28648,7 @@ var TextlocationList = [{
       "keyword": "溝"
     },
     {
-      "index": "126",
+      "index": "116",
       "width": "72.95697",
       "height": "53.4774551",
       "left": "516.1025",
@@ -28736,7 +28656,7 @@ var TextlocationList = [{
       "keyword": "通"
     },
     {
-      "index": "127",
+      "index": "117",
       "width": "27.5777588",
       "height": "53.4774551",
       "left": "604.235168",
@@ -28744,15 +28664,119 @@ var TextlocationList = [{
       "keyword": ")"
     },
     {
+      "index": "118",
+      "width": "27.5777283",
+      "height": "0",
+      "left": "208.950439",
+      "top": "441.989136",
+      "keyword": "("
+    },
+    {
+      "index": "119",
+      "width": "72.956955",
+      "height": "0",
+      "left": "251.70433",
+      "top": "441.989136",
+      "keyword": "閉"
+    },
+    {
+      "index": "120",
+      "width": "72.95697",
+      "height": "0",
+      "left": "339.837036",
+      "top": "441.989136",
+      "keyword": "環"
+    },
+    {
+      "index": "121",
+      "width": "72.95697",
+      "height": "0",
+      "left": "427.9698",
+      "top": "441.989136",
+      "keyword": "溝"
+    },
+    {
+      "index": "122",
+      "width": "72.95697",
+      "height": "0",
+      "left": "516.1025",
+      "top": "441.989136",
+      "keyword": "通"
+    },
+    {
+      "index": "123",
+      "width": "27.5777588",
+      "height": "0",
+      "left": "604.235168",
+      "top": "441.989136",
+      "keyword": ")"
+    },
+    {
+      "index": "124",
+      "width": "16.5612335",
+      "height": "53.4774551",
+      "left": "177.211929",
+      "top": "441.989136",
+      "keyword": ""
+    },
+    {
+      "index": "125",
+      "width": "27.5777283",
+      "height": "53.4774551",
+      "left": "208.950439",
+      "top": "441.989136",
+      "keyword": "("
+    },
+    {
+      "index": "126",
+      "width": "72.956955",
+      "height": "53.4774551",
+      "left": "251.70433",
+      "top": "441.989136",
+      "keyword": "閉"
+    },
+    {
+      "index": "127",
+      "width": "72.95697",
+      "height": "53.4774551",
+      "left": "339.837036",
+      "top": "441.989136",
+      "keyword": "環"
+    },
+    {
       "index": "128",
-      "width": "61.99501",
-      "height": "45.44234",
-      "left": "105.348587",
-      "top": "575.4138",
-      "keyword": "【"
+      "width": "72.95697",
+      "height": "53.4774551",
+      "left": "427.9698",
+      "top": "441.989136",
+      "keyword": "溝"
     },
     {
       "index": "129",
+      "width": "72.95697",
+      "height": "53.4774551",
+      "left": "516.1025",
+      "top": "441.989136",
+      "keyword": "通"
+    },
+    {
+      "index": "130",
+      "width": "27.5777588",
+      "height": "53.4774551",
+      "left": "604.235168",
+      "top": "441.989136",
+      "keyword": ")"
+    },
+    {
+      "index": "131",
+      "width": "61.99501",
+      "height": "45.44234",
+      "left": "105.348587",
+      "top": "575.4138",
+      "keyword": "【"
+    },
+    {
+      "index": "132",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "167.3407",
@@ -28760,7 +28784,7 @@ var TextlocationList = [{
       "keyword": "點"
     },
     {
-      "index": "130",
+      "index": "133",
       "width": "61.99501",
       "height": "45.44234",
       "left": "229.332809",
@@ -28768,7 +28792,7 @@ var TextlocationList = [{
       "keyword": "擊"
     },
     {
-      "index": "131",
+      "index": "134",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "291.324921",
@@ -28776,7 +28800,7 @@ var TextlocationList = [{
       "keyword": "看"
     },
     {
-      "index": "132",
+      "index": "135",
       "width": "61.99501",
       "height": "0",
       "left": "105.348587",
@@ -28784,7 +28808,7 @@ var TextlocationList = [{
       "keyword": "【"
     },
     {
-      "index": "133",
+      "index": "136",
       "width": "61.9949951",
       "height": "0",
       "left": "167.3407",
@@ -28792,7 +28816,7 @@ var TextlocationList = [{
       "keyword": "點"
     },
     {
-      "index": "134",
+      "index": "137",
       "width": "61.99501",
       "height": "0",
       "left": "229.332809",
@@ -28800,66 +28824,42 @@ var TextlocationList = [{
       "keyword": "擊"
     },
     {
-      "index": "135",
+      "index": "138",
       "width": "61.9949951",
       "height": "0",
       "left": "291.324921",
       "top": "575.4138",
       "keyword": "看"
-    },
-    {
-      "index": "136",
-      "width": "14.072876",
-      "height": "45.44234",
-      "left": "353.317352",
-      "top": "575.4138",
-      "keyword": ""
-    },
-    {
-      "index": "137",
-      "width": "14.072876",
-      "height": "45.44234",
-      "left": "367.389557",
-      "top": "575.4138",
-      "keyword": ""
-    },
-    {
-      "index": "138",
-      "width": "14.072876",
-      "height": "45.44234",
-      "left": "353.317352",
-      "top": "575.4138",
-      "keyword": ""
     },
     {
       "index": "139",
       "width": "14.072876",
       "height": "45.44234",
-      "left": "367.389557",
+      "left": "353.317352",
       "top": "575.4138",
       "keyword": ""
     },
     {
       "index": "140",
-      "width": "61.9949951",
+      "width": "14.072876",
       "height": "45.44234",
-      "left": "381.4658",
+      "left": "367.389557",
       "top": "575.4138",
-      "keyword": "複"
+      "keyword": ""
     },
     {
       "index": "141",
-      "width": "61.9949951",
+      "width": "14.072876",
       "height": "45.44234",
-      "left": "443.4579",
+      "left": "353.317352",
       "top": "575.4138",
-      "keyword": "誦"
+      "keyword": ""
     },
     {
       "index": "142",
-      "width": "14.0728455",
+      "width": "14.072876",
       "height": "45.44234",
-      "left": "505.449982",
+      "left": "367.389557",
       "top": "575.4138",
       "keyword": ""
     },
@@ -28867,12 +28867,36 @@ var TextlocationList = [{
       "index": "143",
       "width": "61.9949951",
       "height": "45.44234",
+      "left": "381.4658",
+      "top": "575.4138",
+      "keyword": "複"
+    },
+    {
+      "index": "144",
+      "width": "61.9949951",
+      "height": "45.44234",
+      "left": "443.4579",
+      "top": "575.4138",
+      "keyword": "誦"
+    },
+    {
+      "index": "145",
+      "width": "14.0728455",
+      "height": "45.44234",
+      "left": "505.449982",
+      "top": "575.4138",
+      "keyword": ""
+    },
+    {
+      "index": "146",
+      "width": "61.9949951",
+      "height": "45.44234",
       "left": "519.522156",
       "top": "575.4138",
       "keyword": "重"
     },
     {
-      "index": "144",
+      "index": "147",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "581.5142",
@@ -28880,7 +28904,7 @@ var TextlocationList = [{
       "keyword": "點"
     },
     {
-      "index": "145",
+      "index": "148",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "643.506348",
@@ -28888,7 +28912,7 @@ var TextlocationList = [{
       "keyword": "】"
     },
     {
-      "index": "146",
+      "index": "149",
       "width": "61.9949951",
       "height": "0",
       "left": "381.4658",
@@ -28896,7 +28920,7 @@ var TextlocationList = [{
       "keyword": "複"
     },
     {
-      "index": "147",
+      "index": "150",
       "width": "61.9949951",
       "height": "0",
       "left": "443.4579",
@@ -28904,7 +28928,7 @@ var TextlocationList = [{
       "keyword": "誦"
     },
     {
-      "index": "148",
+      "index": "151",
       "width": "14.0728455",
       "height": "0",
       "left": "505.449982",
@@ -28912,7 +28936,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "149",
+      "index": "152",
       "width": "61.9949951",
       "height": "0",
       "left": "519.522156",
@@ -28920,7 +28944,7 @@ var TextlocationList = [{
       "keyword": "重"
     },
     {
-      "index": "150",
+      "index": "153",
       "width": "61.9949951",
       "height": "0",
       "left": "581.5142",
@@ -28928,7 +28952,7 @@ var TextlocationList = [{
       "keyword": "點"
     },
     {
-      "index": "151",
+      "index": "154",
       "width": "61.9949951",
       "height": "0",
       "left": "643.506348",
@@ -28936,7 +28960,7 @@ var TextlocationList = [{
       "keyword": "】"
     },
     {
-      "index": "152",
+      "index": "155",
       "width": "61.99501",
       "height": "45.44234",
       "left": "105.348587",
@@ -28944,7 +28968,7 @@ var TextlocationList = [{
       "keyword": "【"
     },
     {
-      "index": "153",
+      "index": "156",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "167.3407",
@@ -28952,7 +28976,7 @@ var TextlocationList = [{
       "keyword": "點"
     },
     {
-      "index": "154",
+      "index": "157",
       "width": "61.99501",
       "height": "45.44234",
       "left": "229.332809",
@@ -28960,7 +28984,7 @@ var TextlocationList = [{
       "keyword": "擊"
     },
     {
-      "index": "155",
+      "index": "158",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "291.324921",
@@ -28968,7 +28992,7 @@ var TextlocationList = [{
       "keyword": "看"
     },
     {
-      "index": "156",
+      "index": "159",
       "width": "14.072876",
       "height": "45.44234",
       "left": "353.317352",
@@ -28976,7 +29000,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "157",
+      "index": "160",
       "width": "14.072876",
       "height": "45.44234",
       "left": "367.389557",
@@ -28984,7 +29008,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "158",
+      "index": "161",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "381.4658",
@@ -28992,7 +29016,7 @@ var TextlocationList = [{
       "keyword": "複"
     },
     {
-      "index": "159",
+      "index": "162",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "443.4579",
@@ -29000,7 +29024,7 @@ var TextlocationList = [{
       "keyword": "誦"
     },
     {
-      "index": "160",
+      "index": "163",
       "width": "14.0728455",
       "height": "45.44234",
       "left": "505.449982",
@@ -29008,7 +29032,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "161",
+      "index": "164",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "519.522156",
@@ -29016,7 +29040,7 @@ var TextlocationList = [{
       "keyword": "重"
     },
     {
-      "index": "162",
+      "index": "165",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "581.5142",
@@ -29024,7 +29048,7 @@ var TextlocationList = [{
       "keyword": "點"
     },
     {
-      "index": "163",
+      "index": "166",
       "width": "61.9949951",
       "height": "45.44234",
       "left": "643.506348",
@@ -29032,7 +29056,7 @@ var TextlocationList = [{
       "keyword": "】"
     },
     {
-      "index": "164",
+      "index": "167",
       "width": "37.5083",
       "height": "40.31317",
       "left": "191.881577",
@@ -29040,7 +29064,7 @@ var TextlocationList = [{
       "keyword": "R"
     },
     {
-      "index": "165",
+      "index": "168",
       "width": "31.9535522",
       "height": "40.31317",
       "left": "228.728882",
@@ -29048,7 +29072,7 @@ var TextlocationList = [{
       "keyword": "e"
     },
     {
-      "index": "166",
+      "index": "169",
       "width": "32.50351",
       "height": "40.31317",
       "left": "259.9116",
@@ -29056,7 +29080,7 @@ var TextlocationList = [{
       "keyword": "a"
     },
     {
-      "index": "167",
+      "index": "170",
       "width": "35.418396",
       "height": "40.31317",
       "left": "292.414246",
@@ -29064,7 +29088,7 @@ var TextlocationList = [{
       "keyword": "d"
     },
     {
-      "index": "168",
+      "index": "171",
       "width": "20.34906",
       "height": "40.31317",
       "left": "327.831665",
@@ -29072,7 +29096,7 @@ var TextlocationList = [{
       "keyword": "-"
     },
     {
-      "index": "169",
+      "index": "172",
       "width": "37.45331",
       "height": "40.31317",
       "left": "348.180176",
@@ -29080,7 +29104,7 @@ var TextlocationList = [{
       "keyword": "B"
     },
     {
-      "index": "170",
+      "index": "173",
       "width": "32.50351",
       "height": "40.31317",
       "left": "385.632477",
@@ -29088,7 +29112,7 @@ var TextlocationList = [{
       "keyword": "a"
     },
     {
-      "index": "171",
+      "index": "174",
       "width": "28.9836731",
       "height": "40.31317",
       "left": "418.135132",
@@ -29096,7 +29120,7 @@ var TextlocationList = [{
       "keyword": "c"
     },
     {
-      "index": "172",
+      "index": "175",
       "width": "33.2735",
       "height": "40.31317",
       "left": "447.118",
@@ -29104,7 +29128,7 @@ var TextlocationList = [{
       "keyword": "k"
     },
     {
-      "index": "173",
+      "index": "176",
       "width": "12.484436",
       "height": "40.31317",
       "left": "480.390625",
@@ -29112,7 +29136,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "174",
+      "index": "177",
       "width": "54.9974976",
       "height": "40.31317",
       "left": "492.8747",
@@ -29120,7 +29144,7 @@ var TextlocationList = [{
       "keyword": "複"
     },
     {
-      "index": "175",
+      "index": "178",
       "width": "54.9974976",
       "height": "40.31317",
       "left": "547.8707",
@@ -29128,7 +29152,7 @@ var TextlocationList = [{
       "keyword": "誦"
     },
     {
-      "index": "176",
+      "index": "179",
       "width": "64.27498",
       "height": "47.113575",
       "left": "201.0678",
@@ -29136,7 +29160,7 @@ var TextlocationList = [{
       "keyword": "任"
     },
     {
-      "index": "177",
+      "index": "180",
       "width": "64.2749939",
       "height": "47.113575",
       "left": "265.333344",
@@ -29144,7 +29168,7 @@ var TextlocationList = [{
       "keyword": "務"
     },
     {
-      "index": "178",
+      "index": "181",
       "width": "37.85797",
       "height": "47.113575",
       "left": "329.598877",
@@ -29152,7 +29176,7 @@ var TextlocationList = [{
       "keyword": "0"
     },
     {
-      "index": "179",
+      "index": "182",
       "width": "37.85797",
       "height": "47.113575",
       "left": "367.4513",
@@ -29160,47 +29184,47 @@ var TextlocationList = [{
       "keyword": "3"
     },
     {
-      "index": "180",
+      "index": "183",
       "width": "36.44391",
       "height": "47.113575",
       "left": "405.3037",
       "top": "127.243774",
       "keyword": "_"
-    },
-    {
-      "index": "181",
-      "width": "64.2749939",
-      "height": "47.113575",
-      "left": "441.742249",
-      "top": "127.243774",
-      "keyword": "互"
-    },
-    {
-      "index": "182",
-      "width": "64.2750244",
-      "height": "47.113575",
-      "left": "506.0078",
-      "top": "127.243774",
-      "keyword": "動"
-    },
-    {
-      "index": "183",
-      "width": "64.27498",
-      "height": "0",
-      "left": "201.0678",
-      "top": "127.243774",
-      "keyword": "任"
     },
     {
       "index": "184",
       "width": "64.2749939",
+      "height": "47.113575",
+      "left": "441.742249",
+      "top": "127.243774",
+      "keyword": "互"
+    },
+    {
+      "index": "185",
+      "width": "64.2750244",
+      "height": "47.113575",
+      "left": "506.0078",
+      "top": "127.243774",
+      "keyword": "動"
+    },
+    {
+      "index": "186",
+      "width": "64.27498",
+      "height": "0",
+      "left": "201.0678",
+      "top": "127.243774",
+      "keyword": "任"
+    },
+    {
+      "index": "187",
+      "width": "64.2749939",
       "height": "0",
       "left": "265.333344",
       "top": "127.243774",
       "keyword": "務"
     },
     {
-      "index": "185",
+      "index": "188",
       "width": "37.85797",
       "height": "0",
       "left": "329.598877",
@@ -29208,7 +29232,7 @@ var TextlocationList = [{
       "keyword": "0"
     },
     {
-      "index": "186",
+      "index": "189",
       "width": "37.85797",
       "height": "0",
       "left": "367.4513",
@@ -29216,7 +29240,7 @@ var TextlocationList = [{
       "keyword": "3"
     },
     {
-      "index": "187",
+      "index": "190",
       "width": "36.44391",
       "height": "0",
       "left": "405.3037",
@@ -29224,7 +29248,7 @@ var TextlocationList = [{
       "keyword": "_"
     },
     {
-      "index": "188",
+      "index": "191",
       "width": "64.2749939",
       "height": "0",
       "left": "441.742249",
@@ -29232,7 +29256,7 @@ var TextlocationList = [{
       "keyword": "互"
     },
     {
-      "index": "189",
+      "index": "192",
       "width": "64.2750244",
       "height": "0",
       "left": "506.0078",
@@ -29240,7 +29264,7 @@ var TextlocationList = [{
       "keyword": "動"
     },
     {
-      "index": "190",
+      "index": "193",
       "width": "64.27498",
       "height": "47.113575",
       "left": "201.0678",
@@ -29248,7 +29272,7 @@ var TextlocationList = [{
       "keyword": "任"
     },
     {
-      "index": "191",
+      "index": "194",
       "width": "64.2749939",
       "height": "47.113575",
       "left": "265.333344",
@@ -29256,7 +29280,7 @@ var TextlocationList = [{
       "keyword": "務"
     },
     {
-      "index": "192",
+      "index": "195",
       "width": "37.85797",
       "height": "47.113575",
       "left": "329.598877",
@@ -29264,7 +29288,7 @@ var TextlocationList = [{
       "keyword": "0"
     },
     {
-      "index": "193",
+      "index": "196",
       "width": "37.85797",
       "height": "47.113575",
       "left": "367.4513",
@@ -29272,7 +29296,7 @@ var TextlocationList = [{
       "keyword": "3"
     },
     {
-      "index": "194",
+      "index": "197",
       "width": "36.44391",
       "height": "47.113575",
       "left": "405.3037",
@@ -29280,7 +29304,7 @@ var TextlocationList = [{
       "keyword": "_"
     },
     {
-      "index": "195",
+      "index": "198",
       "width": "64.2749939",
       "height": "47.113575",
       "left": "441.742249",
@@ -29288,7 +29312,7 @@ var TextlocationList = [{
       "keyword": "互"
     },
     {
-      "index": "196",
+      "index": "199",
       "width": "64.2750244",
       "height": "47.113575",
       "left": "506.0078",
@@ -29297,7 +29321,7 @@ var TextlocationList = [{
     }
   ]
 },{
-  "index": "19",
+  "index": "1",
   "pdfWidth": "810",
   "pdfHeight": "1440",
   "content": [
@@ -30543,134 +30567,150 @@ var TextlocationList = [{
     },
     {
       "index": "155",
-      "width": "59.4024658",
+      "width": "59.40246",
       "height": "43.5420036",
-      "left": "167.8176",
-      "top": "1164.1825",
+      "left": "108.418633",
+      "top": "1164.18237",
       "keyword": "發"
     },
     {
       "index": "156",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "227.216644",
-      "top": "1164.1825",
-      "keyword": "送"
+      "left": "167.817688",
+      "top": "1164.18237",
+      "keyword": "訊"
     },
     {
       "index": "157",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "286.6157",
-      "top": "1164.1825",
+      "left": "227.216736",
+      "top": "1164.18237",
       "keyword": "者"
     },
     {
       "index": "158",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "346.01474",
-      "top": "1164.1825",
-      "keyword": "核"
+      "left": "286.615784",
+      "top": "1164.18237",
+      "keyword": "確"
     },
     {
       "index": "159",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "405.4138",
-      "top": "1164.1825",
-      "keyword": "對"
+      "left": "346.014832",
+      "top": "1164.18237",
+      "keyword": "認"
     },
     {
       "index": "160",
-      "width": "59.4024353",
+      "width": "59.4024658",
       "height": "43.5420036",
-      "left": "464.812836",
-      "top": "1164.1825",
-      "keyword": "內"
+      "left": "405.413879",
+      "top": "1164.18237",
+      "keyword": "複"
     },
     {
       "index": "161",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "524.2119",
-      "top": "1164.1825",
-      "keyword": "容"
+      "left": "464.812927",
+      "top": "1164.18237",
+      "keyword": "誦"
     },
     {
       "index": "162",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "583.6109",
-      "top": "1164.1825",
-      "keyword": "，"
+      "left": "524.212",
+      "top": "1164.18237",
+      "keyword": "無"
     },
     {
       "index": "163",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "167.8176",
-      "top": "1252.36243",
-      "keyword": "打"
+      "left": "583.611",
+      "top": "1164.18237",
+      "keyword": "誤"
     },
     {
       "index": "164",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "227.216644",
-      "top": "1252.36243",
-      "keyword": "勾"
+      "left": "643.0101",
+      "top": "1164.18237",
+      "keyword": "，"
     },
     {
       "index": "165",
-      "width": "59.4024658",
+      "width": "13.48436",
       "height": "43.5420036",
-      "left": "286.6157",
-      "top": "1252.36243",
-      "keyword": "確"
+      "left": "213.722748",
+      "top": "1252.36218",
+      "keyword": ""
     },
     {
       "index": "166",
-      "width": "59.4024658",
+      "width": "13.48436",
       "height": "43.5420036",
-      "left": "346.01474",
-      "top": "1252.36243",
-      "keyword": "認"
+      "left": "227.20636",
+      "top": "1252.36218",
+      "keyword": ""
     },
     {
       "index": "167",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "405.4138",
-      "top": "1252.36243",
-      "keyword": "才"
+      "left": "240.710358",
+      "top": "1252.36218",
+      "keyword": "完"
     },
     {
       "index": "168",
-      "width": "59.4024353",
+      "width": "59.4024658",
       "height": "43.5420036",
-      "left": "464.812836",
-      "top": "1252.36243",
-      "keyword": "算"
+      "left": "300.1094",
+      "top": "1252.36218",
+      "keyword": "成"
     },
     {
       "index": "169",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "524.2119",
-      "top": "1252.36243",
-      "keyword": "過"
+      "left": "359.508453",
+      "top": "1252.36218",
+      "keyword": "閉"
     },
     {
       "index": "170",
       "width": "59.4024658",
       "height": "43.5420036",
-      "left": "583.6109",
-      "top": "1252.36243",
-      "keyword": "關"
+      "left": "418.9075",
+      "top": "1252.36218",
+      "keyword": "環"
     },
     {
       "index": "171",
+      "width": "59.4024353",
+      "height": "43.5420036",
+      "left": "478.306549",
+      "top": "1252.36218",
+      "keyword": "溝"
+    },
+    {
+      "index": "172",
+      "width": "59.4024658",
+      "height": "43.5420036",
+      "left": "537.705566",
+      "top": "1252.36218",
+      "keyword": "通"
+    },
+    {
+      "index": "173",
       "width": "32.84671",
       "height": "36.64634",
       "left": "156.832031",
@@ -30678,7 +30718,7 @@ var TextlocationList = [{
       "keyword": "C"
     },
     {
-      "index": "172",
+      "index": "174",
       "width": "31.99681",
       "height": "36.64634",
       "left": "189.676956",
@@ -30686,7 +30726,7 @@ var TextlocationList = [{
       "keyword": "h"
     },
     {
-      "index": "173",
+      "index": "175",
       "width": "29.0471039",
       "height": "36.64634",
       "left": "221.672",
@@ -30694,7 +30734,7 @@ var TextlocationList = [{
       "keyword": "e"
     },
     {
-      "index": "174",
+      "index": "176",
       "width": "26.3473816",
       "height": "36.64634",
       "left": "250.7175",
@@ -30702,7 +30742,7 @@ var TextlocationList = [{
       "keyword": "c"
     },
     {
-      "index": "175",
+      "index": "177",
       "width": "30.2469788",
       "height": "36.64634",
       "left": "277.063416",
@@ -30710,7 +30750,7 @@ var TextlocationList = [{
       "keyword": "k"
     },
     {
-      "index": "176",
+      "index": "178",
       "width": "18.4981384",
       "height": "36.64634",
       "left": "303.15918",
@@ -30718,7 +30758,7 @@ var TextlocationList = [{
       "keyword": "-"
     },
     {
-      "index": "177",
+      "index": "179",
       "width": "34.0466",
       "height": "36.64634",
       "left": "321.6563",
@@ -30726,7 +30766,7 @@ var TextlocationList = [{
       "keyword": "B"
     },
     {
-      "index": "178",
+      "index": "180",
       "width": "29.5470581",
       "height": "36.64634",
       "left": "355.70105",
@@ -30734,7 +30774,7 @@ var TextlocationList = [{
       "keyword": "a"
     },
     {
-      "index": "179",
+      "index": "181",
       "width": "26.3473511",
       "height": "36.64634",
       "left": "385.24646",
@@ -30742,7 +30782,7 @@ var TextlocationList = [{
       "keyword": "c"
     },
     {
-      "index": "180",
+      "index": "182",
       "width": "30.2469788",
       "height": "36.64634",
       "left": "411.5924",
@@ -30750,7 +30790,7 @@ var TextlocationList = [{
       "keyword": "k"
     },
     {
-      "index": "181",
+      "index": "183",
       "width": "11.348877",
       "height": "36.64634",
       "left": "441.8377",
@@ -30758,7 +30798,7 @@ var TextlocationList = [{
       "keyword": ""
     },
     {
-      "index": "182",
+      "index": "184",
       "width": "49.9949951",
       "height": "36.64634",
       "left": "453.185944",
@@ -30766,7 +30806,7 @@ var TextlocationList = [{
       "keyword": "收"
     },
     {
-      "index": "183",
+      "index": "185",
       "width": "49.9949951",
       "height": "36.64634",
       "left": "503.178223",
@@ -30774,7 +30814,7 @@ var TextlocationList = [{
       "keyword": "到"
     },
     {
-      "index": "184",
+      "index": "186",
       "width": "49.9949951",
       "height": "36.64634",
       "left": "553.170532",
@@ -30782,7 +30822,7 @@ var TextlocationList = [{
       "keyword": "確"
     },
     {
-      "index": "185",
+      "index": "187",
       "width": "49.9949951",
       "height": "36.64634",
       "left": "603.1627",
@@ -30790,63 +30830,63 @@ var TextlocationList = [{
       "keyword": "認"
     },
     {
-      "index": "186",
+      "index": "188",
       "width": "64.27498",
       "height": "47.113575",
       "left": "201.0678",
       "top": "127.243774",
       "keyword": "任"
-    },
-    {
-      "index": "187",
-      "width": "64.2749939",
-      "height": "47.113575",
-      "left": "265.333344",
-      "top": "127.243774",
-      "keyword": "務"
-    },
-    {
-      "index": "188",
-      "width": "37.85797",
-      "height": "47.113575",
-      "left": "329.598877",
-      "top": "127.243774",
-      "keyword": "0"
     },
     {
       "index": "189",
-      "width": "37.85797",
+      "width": "64.2749939",
       "height": "47.113575",
-      "left": "367.4513",
+      "left": "265.333344",
       "top": "127.243774",
-      "keyword": "3"
+      "keyword": "務"
     },
     {
       "index": "190",
-      "width": "36.44391",
+      "width": "37.85797",
       "height": "47.113575",
-      "left": "405.3037",
+      "left": "329.598877",
       "top": "127.243774",
-      "keyword": "_"
+      "keyword": "0"
     },
     {
       "index": "191",
-      "width": "64.2749939",
+      "width": "37.85797",
       "height": "47.113575",
-      "left": "441.742249",
+      "left": "367.4513",
       "top": "127.243774",
-      "keyword": "互"
+      "keyword": "3"
     },
     {
       "index": "192",
-      "width": "64.2750244",
+      "width": "36.44391",
       "height": "47.113575",
-      "left": "506.0078",
+      "left": "405.3037",
       "top": "127.243774",
-      "keyword": "動"
+      "keyword": "_"
     },
     {
       "index": "193",
+      "width": "64.2749939",
+      "height": "47.113575",
+      "left": "441.742249",
+      "top": "127.243774",
+      "keyword": "互"
+    },
+    {
+      "index": "194",
+      "width": "64.2750244",
+      "height": "47.113575",
+      "left": "506.0078",
+      "top": "127.243774",
+      "keyword": "動"
+    },
+    {
+      "index": "195",
       "width": "64.27498",
       "height": "0",
       "left": "201.0678",
@@ -30854,7 +30894,7 @@ var TextlocationList = [{
       "keyword": "任"
     },
     {
-      "index": "194",
+      "index": "196",
       "width": "64.2749939",
       "height": "0",
       "left": "265.333344",
@@ -30862,7 +30902,7 @@ var TextlocationList = [{
       "keyword": "務"
     },
     {
-      "index": "195",
+      "index": "197",
       "width": "37.85797",
       "height": "0",
       "left": "329.598877",
@@ -30870,7 +30910,7 @@ var TextlocationList = [{
       "keyword": "0"
     },
     {
-      "index": "196",
+      "index": "198",
       "width": "37.85797",
       "height": "0",
       "left": "367.4513",
@@ -30878,7 +30918,7 @@ var TextlocationList = [{
       "keyword": "3"
     },
     {
-      "index": "197",
+      "index": "199",
       "width": "36.44391",
       "height": "0",
       "left": "405.3037",
@@ -30886,7 +30926,7 @@ var TextlocationList = [{
       "keyword": "_"
     },
     {
-      "index": "198",
+      "index": "200",
       "width": "64.2749939",
       "height": "0",
       "left": "441.742249",
@@ -30894,7 +30934,7 @@ var TextlocationList = [{
       "keyword": "互"
     },
     {
-      "index": "199",
+      "index": "201",
       "width": "64.2750244",
       "height": "0",
       "left": "506.0078",
@@ -30902,7 +30942,7 @@ var TextlocationList = [{
       "keyword": "動"
     },
     {
-      "index": "200",
+      "index": "202",
       "width": "64.27498",
       "height": "47.113575",
       "left": "201.0678",
@@ -30910,7 +30950,7 @@ var TextlocationList = [{
       "keyword": "任"
     },
     {
-      "index": "201",
+      "index": "203",
       "width": "64.2749939",
       "height": "47.113575",
       "left": "265.333344",
@@ -30918,7 +30958,7 @@ var TextlocationList = [{
       "keyword": "務"
     },
     {
-      "index": "202",
+      "index": "204",
       "width": "37.85797",
       "height": "47.113575",
       "left": "329.598877",
@@ -30926,7 +30966,7 @@ var TextlocationList = [{
       "keyword": "0"
     },
     {
-      "index": "203",
+      "index": "205",
       "width": "37.85797",
       "height": "47.113575",
       "left": "367.4513",
@@ -30934,7 +30974,7 @@ var TextlocationList = [{
       "keyword": "3"
     },
     {
-      "index": "204",
+      "index": "206",
       "width": "36.44391",
       "height": "47.113575",
       "left": "405.3037",
@@ -30942,7 +30982,7 @@ var TextlocationList = [{
       "keyword": "_"
     },
     {
-      "index": "205",
+      "index": "207",
       "width": "64.2749939",
       "height": "47.113575",
       "left": "441.742249",
@@ -30950,7 +30990,7 @@ var TextlocationList = [{
       "keyword": "互"
     },
     {
-      "index": "206",
+      "index": "208",
       "width": "64.2750244",
       "height": "47.113575",
       "left": "506.0078",
